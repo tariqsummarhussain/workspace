@@ -1,14 +1,79 @@
 -- VERSION_4
 -- START DISKCACHE_2
 /home/tariq/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/python/com.python.pydev.analysis/v2_indexcache
-hellopython|1449343905000000000|/home/tariq/workspace/python/hellopython.py
+Ch3.formatting_finished|1427233384000000000|/home/tariq/workspace/python/Ch3/formatting_finished.py
+Ch3.calendars_finished|1427233384000000000|/home/tariq/workspace/python/Ch3/calendars_finished.py
+Ch3.formatting_start|1427234636000000000|/home/tariq/workspace/python/Ch3/formatting_start.py
+Ch3.dates_finished|1427233384000000000|/home/tariq/workspace/python/Ch3/dates_finished.py
+Ch4.ospathutils_start|1427233384000000000|/home/tariq/workspace/python/Ch4/ospathutils_start.py
+Ch2.conditionals_finished|1427233384000000000|/home/tariq/workspace/python/Ch2/conditionals_finished.py
+Ch3.timedeltas_start|1427233384000000000|/home/tariq/workspace/python/Ch3/timedeltas_start.py
+Ch3.dates_start|1427233384000000000|/home/tariq/workspace/python/Ch3/dates_start.py
+Ch2.conditionals_start|1427233384000000000|/home/tariq/workspace/python/Ch2/conditionals_start.py
+Ch3.timedeltas_finished|1427233384000000000|/home/tariq/workspace/python/Ch3/timedeltas_finished.py
+Ch4.files_start|1427233384000000000|/home/tariq/workspace/python/Ch4/files_start.py
+Ch4.ospathutils_finished|1427233384000000000|/home/tariq/workspace/python/Ch4/ospathutils_finished.py
+Ch2.loops_finished|1427233384000000000|/home/tariq/workspace/python/Ch2/loops_finished.py
+Ch2.loops_start|1427233384000000000|/home/tariq/workspace/python/Ch2/loops_start.py
+Ch2.functions_start|1427233384000000000|/home/tariq/workspace/python/Ch2/functions_start.py
+Ch2.classes_finished|1427233384000000000|/home/tariq/workspace/python/Ch2/classes_finished.py
+Ch2.variables_start|1427233384000000000|/home/tariq/workspace/python/Ch2/variables_start.py
+Ch2.helloworld_start|1427233384000000000|/home/tariq/workspace/python/Ch2/helloworld_start.py
+Ch4.files_finished|1427233384000000000|/home/tariq/workspace/python/Ch4/files_finished.py
+Ch2.functions_finished|1427233384000000000|/home/tariq/workspace/python/Ch2/functions_finished.py
+Ch2.helloworld_finished|1427233384000000000|/home/tariq/workspace/python/Ch2/helloworld_finished.py
+Ch3.calendars_start|1427233384000000000|/home/tariq/workspace/python/Ch3/calendars_start.py
+Ch2.variables_finished|1427233384000000000|/home/tariq/workspace/python/Ch2/variables_finished.py
+Ch2.classes_start|1427233384000000000|/home/tariq/workspace/python/Ch2/classes_start.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+21
+7=Ch3.formatting_finished
+3=Ch3.calendars_finished
+6=Ch3.formatting_start
+18=Ch4.ospathutils_start
+19=Ch3.dates_finished
+17=Ch2.conditionals_finished
+20=myClass
+15=Ch3.dates_start
+1=Ch3.timedeltas_finished
+13=Ch2.conditionals_start
+14=Ch4.files_start
+11=Ch4.ospathutils_finished
+8=Ch2.loops_finished
+16=Ch2.loops_start
+2=Ch2.classes_finished
+9=Ch4.files_finished
+4=Ch2.functions_finished
+21=anotherClass
+12=Ch2.helloworld_finished
+5=Ch2.variables_finished
+10=Ch2.classes_start
 -- END DICTIONARY
 -- START TREE 1
-0
+20
+afd|1|afd!11@
+ano|1|anotherClass!17@
+c|1|c!27@
+cal|1|cal!27@
+cub|1|cube!34@
+f|1|f!43@
+fun|2|func2!34@func1!34@
+hc|1|hc!27@
+mai|15|main!50@main!58@main!66@main!74@main!82@main!90@main!18@main!98@main!106@main!114@main!122@main!130@main!138@main!146@main!154@
+mee|1|meetday!27@
+mul|1|multi_add!34@
+myc|1|myClass!17@
+pow|1|power!34@
+s|1|s!11@
+som|1|someFunction!42@
+str|1|str!27@
+t|1|t!11@
+tim|1|time_to_afd!11@
+tod|1|today!11@
+wee|2|weekone!27@weektwo!27@
 -- END TREE
 -- START TREE 2
-0
+1
+met|4|method1!20&18@method1!21&18@method2!20&18@method2!21&18@
 -- END TREE
